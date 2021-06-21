@@ -2,6 +2,8 @@
 # DarkCj7
 Tool de Herramientas para Termux >> By: JulioCj7
 
+julio:cj7
+
 # Instalación :
 
 apt update && apt upgrade -y
