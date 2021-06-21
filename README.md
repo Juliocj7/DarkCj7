@@ -12,7 +12,13 @@ gem install lolcat
 
 apt install pv
 
-git clone
+git clone https://github.com/Juliocj7/DarkCj7
+
+cd DarkCj7
+
+chmod 777 DarkCj7.sh
+
+bash DarkCj7.sh
 
 # --------------------
 
