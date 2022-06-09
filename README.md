@@ -27,8 +27,6 @@
 ## Menú Principal :
 ![Screenshot_20220608-230411_Termux](https://user-images.githubusercontent.com/81049859/172755499-4d2c6c79-f838-4f46-be9e-fb4d54749b34.png)
 
-* :lock_with_ink_pen:`Password: julio:cj7`:lock_with_ink_pen:
-
 ## DarkCj7 :
 * Tool de **Herramientas** para Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
