@@ -28,7 +28,7 @@
 ![Screenshot_20220608-230411_Termux](https://user-images.githubusercontent.com/81049859/172755499-4d2c6c79-f838-4f46-be9e-fb4d54749b34.png)
 
 ## DarkCj7 :
-* Tool de **Herramientas** para Termux.
+* Tool de **Herramientas Mega Básicas** para Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
