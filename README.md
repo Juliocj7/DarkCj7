@@ -21,10 +21,13 @@
 
 </details>
 
-## Menú Principal :
-![Screenshot_20210808-104613_Termux](https://user-images.githubusercontent.com/81049859/128636110-05653f76-02e9-4895-998e-40006fc604bb.png)
+## Bloqueo :
+![Screenshot_20220608-230033_Termux](https://user-images.githubusercontent.com/81049859/172755630-2ab1aa2e-b4fc-4c7c-9369-3bea1c231a50.png)
 
-* :sunglasses:`Password: julio:cj7`:sunglasses:
+## Menú Principal :
+![Screenshot_20220608-230411_Termux](https://user-images.githubusercontent.com/81049859/172755499-4d2c6c79-f838-4f46-be9e-fb4d54749b34.png)
+
+* :lock_with_ink_pen:`Password: julio:cj7`:lock_with_ink_pen:
 
 ## DarkCj7 :
 * Tool de **Herramientas** para Termux.
