@@ -23,10 +23,10 @@
 </details>
 
 ## Bloqueo :
-![Screenshot_20221228-133819_Termux](https://user-images.githubusercontent.com/81049859/209851158-78bf3dac-fc0c-443b-895b-e0e7b46db289.png)
+![1000328334](https://github.com/Juliocj7/DarkCj7/assets/81049859/abbcd604-a05a-4a40-bd7b-eb877164a015)
 
 ## Menú Principal :
-![Screenshot_20221228-131658_Termux](https://user-images.githubusercontent.com/81049859/209851183-ec570f03-74fa-4beb-a621-b52ef3cb6760.png)
+![1000328335](https://github.com/Juliocj7/DarkCj7/assets/81049859/3115c32c-3efd-451e-a2a5-23d113f635c8)
 
 ## DarkCj7 :
 * Tool de **Herramientas Mega Básicas** para Termux.
