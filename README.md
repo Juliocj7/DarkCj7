@@ -49,7 +49,7 @@ ______________________________________________________
 ![1000328335](https://github.com/Juliocj7/DarkCj7/assets/81049859/3115c32c-3efd-451e-a2a5-23d113f635c8)
 
 ## DarkCj7 :
-* Tool de **Herramientas Mega Básicas** para Termux.
+* Multi **herramientas** básicas para Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,17 +57,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/DarkCj7`
-
-* `cd DarkCj7`
-
-* `chmod +x *`
-
-* `./DarkCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/DarkCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd DarkCj7 && chmod +x * && ./DarkCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
