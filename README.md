@@ -49,7 +49,7 @@ ______________________________________________________
 ![1000328335](https://github.com/Juliocj7/DarkCj7/assets/81049859/3115c32c-3efd-451e-a2a5-23d113f635c8)
 
 ## DarkCj7 :
-* Multi **herramientas** básicas para Termux.
+* Multi **herramientas** básicas para Termux, creadas hace siglos y con las que aprendí los conceptos básicos de la programación.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
