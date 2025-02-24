@@ -48,7 +48,7 @@
 ![1000328335](https://github.com/Juliocj7/DarkCj7/assets/81049859/3115c32c-3efd-451e-a2a5-23d113f635c8)
 
 ## DarkCj7 :
-* Multi **herramientas** básicas para Termux, creadas hace siglos y con las que aprendí los conceptos básicos de la programación.
+* Multi **herramientas** básicas para termux, creadas hace siglos y con las que aprendí los conceptos básicos de la programación.
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva y totalmente mía <img alt="i-boycute" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-boycute.png" width="20" height="20" />
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
