@@ -42,10 +42,12 @@
 </div>
 
 ## Login :
-![1000328334](https://github.com/Juliocj7/DarkCj7/assets/81049859/abbcd604-a05a-4a40-bd7b-eb877164a015)
+[![1000328334](https://github.com/user-attachments/assets/99751fb6-5ac0-4603-ac21-d269517ba76b)](#---)
+
 
 ## Menú Principal :
-![1000328335](https://github.com/Juliocj7/DarkCj7/assets/81049859/3115c32c-3efd-451e-a2a5-23d113f635c8)
+[![1000328335](https://github.com/user-attachments/assets/310c1cf6-592b-40d5-a69d-5f1308769325)](#---)
+
 
 ## DarkCj7 :
 * Multi **herramientas** básicas para termux, creadas hace siglos y con las que aprendí los conceptos básicos de la programación.
